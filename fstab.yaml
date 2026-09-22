@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p225606-e2307428.adobeaemcloud.com/bin/franklin.delivery/vlab19-us/ue-sept/main"
-    type: "markup"
-    suffix: ".html"
