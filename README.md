@@ -1,9 +1,11 @@
 # Your Project's Title...
-Your project's description...
+UE Demo
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+-- Preview: https://main--ue-sept--vlab19-us.aem.page/
+-- Live: https://main--ue-sept--vlab19-us.aem.live/
+
+
 
 ## Documentation
 
